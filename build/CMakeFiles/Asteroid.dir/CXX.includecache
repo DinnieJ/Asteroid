@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CMake asteroid/Animation.cpp
+Animation.hpp
+E:/CMake asteroid/Animation.hpp
+
+E:/CMake asteroid/Animation.hpp
+list
+-
+SFML/Graphics.hpp
+-
+
+E:/CMake asteroid/Asteroid.cpp
+Asteroid.hpp
+E:/CMake asteroid/Asteroid.hpp
+
+E:/CMake asteroid/Asteroid.hpp
+Entity.hpp
+E:/CMake asteroid/Entity.hpp
+
+E:/CMake asteroid/Bullet.cpp
+Bullet.hpp
+E:/CMake asteroid/Bullet.hpp
+
+E:/CMake asteroid/Bullet.hpp
+Entity.hpp
+E:/CMake asteroid/Entity.hpp
+
+E:/CMake asteroid/Entity.cpp
+Entity.hpp
+E:/CMake asteroid/Entity.hpp
+
+E:/CMake asteroid/Entity.hpp
+iostream
+-
+Animation.hpp
+E:/CMake asteroid/Animation.hpp
+
+E:/CMake asteroid/Game.cpp
+Game.hpp
+E:/CMake asteroid/Game.hpp
+
+E:/CMake asteroid/Game.hpp
+Entity.hpp
+E:/CMake asteroid/Entity.hpp
+Asteroid.hpp
+E:/CMake asteroid/Asteroid.hpp
+Player.hpp
+E:/CMake asteroid/Player.hpp
+iostream
+-
+time.h
+-
+
+E:/CMake asteroid/Player.cpp
+Player.hpp
+E:/CMake asteroid/Player.hpp
+
+E:/CMake asteroid/Player.hpp
+Entity.hpp
+E:/CMake asteroid/Entity.hpp
+
+E:/CMake asteroid/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+Game.hpp
+E:/CMake asteroid/Game.hpp
+
