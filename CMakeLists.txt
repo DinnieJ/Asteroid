@@ -6,7 +6,8 @@ set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR})
 
 find_package(SFML REQUIRED COMPONENTS graphics window system)
 
-include_directories(${SFML_INCLUDE_DIR})
+set(SFML_DIR ${Asteroid_SOURCE_DIR}/include/SFML)
+include_directories(${Asteroid_SOURCE_DIR}/include/SFML)
 add_executable(
     Asteroid
     main.cpp
