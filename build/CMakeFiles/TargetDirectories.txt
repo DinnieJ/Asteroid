@@ -1,3 +1,0 @@
-E:/CMake asteroid/build/CMakeFiles/edit_cache.dir
-E:/CMake asteroid/build/CMakeFiles/Asteroid.dir
-E:/CMake asteroid/build/CMakeFiles/rebuild_cache.dir

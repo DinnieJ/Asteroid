@@ -1,5 +1,4 @@
 #include <iostream>
-#include <SFML/Graphics.hpp>
 #include "Game.hpp"
 #pragma GCC diagnostic ignored "-fpermissive"
 using namespace std;

@@ -4,6 +4,7 @@
 
 #include<iostream>
 #include "Animation.hpp"
+#include "math.h"
 
 class Entity{
     protected:

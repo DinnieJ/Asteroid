@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\Asteroid.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Asteroid.dir/objects.a @CMakeFiles\Asteroid.dir\objects1.rsp
-C:\MinGW\bin\g++.exe    -Wl,--whole-archive CMakeFiles\Asteroid.dir/objects.a -Wl,--no-whole-archive  -o Asteroid.exe -Wl,--out-implib,libAsteroid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Asteroid.dir\linklibs.rsp
